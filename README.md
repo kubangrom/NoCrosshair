@@ -3,9 +3,9 @@ Simple script forces First Person Aiming, removes the dot and has working sniper
 
 How to install
 
-Place the kubangrom-NoCross folder in your resources folder.
+---Place the kubangrom-NoCross folder in your resources folder.
 
-Add start kubangrom-NoCross to your server.cfg
+---Add start kubangrom-NoCross to your server.cfg
 
 
 2019
